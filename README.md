@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C Programming Begins Today
+My C Programming Begins Today
