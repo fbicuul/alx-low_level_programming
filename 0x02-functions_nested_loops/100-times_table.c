@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_times_table - Prints a multiplication table up to param
- *
+ * print_times_table - Prints a multiplication table
  * Return: Number matrix
  */
-void print_times_table(int n)
+
+void print_times_table (int n)
 {
 	int x, y, z;
 
