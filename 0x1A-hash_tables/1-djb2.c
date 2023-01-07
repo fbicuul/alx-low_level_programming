@@ -1,6 +1,6 @@
 /*
  * File: 1-djb2.c
- * Auth: Felix Nwaora
+ * Auth: Felix Bamson
  */
 
 #include "hash_tables.h"
