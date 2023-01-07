@@ -1,6 +1,6 @@
 /*
  * File: 0-hash_table_create.c
- * Auth: Felix Nwaora
+ * Auth: Felix Bamson
  */
 
 #include "hash_tables.h"
