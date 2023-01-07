@@ -1,6 +1,6 @@
 /*
  * File: 3-hash_table_set.c
- * Auth: Felix Felix
+ * Auth: Felix Bamson
 */
 
 #include "hash_tables.h"
